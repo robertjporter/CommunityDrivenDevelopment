@@ -1,0 +1,81 @@
+[28-Jun-2017 19:31:27 America/Denver] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'robertjp_Quest'@'localhost' to database 'robertjp_commentsection' in /home1/robertjp/public_html/manager/dbh.php on line 8
+[28-Jun-2017 19:31:27 America/Denver] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home1/robertjp/public_html/manager/dbh.php on line 10
+[28-Jun-2017 19:33:27 America/Denver] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'robertjp_Quest'@'localhost' to database 'robertjp_commentsection' in /home1/robertjp/public_html/manager/dbh.php on line 8
+[28-Jun-2017 19:33:27 America/Denver] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home1/robertjp/public_html/manager/dbh.php on line 10
+[28-Jun-2017 19:38:07 America/Denver] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'robertjp_Quest'@'localhost' to database 'robertjp_commentsection' in /home1/robertjp/public_html/manager/dbh.php on line 8
+[28-Jun-2017 19:38:07 America/Denver] PHP Fatal error:  Call to undefined function msqli_connect_error() in /home1/robertjp/public_html/manager/dbh.php on line 10
+[02-Jul-2017 20:47:41] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 20:53:19] PHP Fatal error:  Call to undefined function  password_hash() in /home1/robertjp/public_html/questhelper/inc/signup.inc.php on line 44
+[02-Jul-2017 20:54:52] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 20:55:10] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 20:57:17] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:19:51] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:25:51] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:26:59] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:28:48] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:30:22] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:33:56] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:35:01] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:37:05] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:37:54] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:38:08] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:40:43] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:42:11] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:44:38] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:48:44] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:50:24] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:53:08] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 21:59:35] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 22:01:22] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[02-Jul-2017 22:44:57] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[03-Jul-2017 00:51:46] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[03-Jul-2017 01:10:58] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[03-Jul-2017 01:55:09] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[03-Jul-2017 01:56:22] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[03-Jul-2017 01:56:37] PHP Fatal error:  Call to undefined function  password_verify() in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 14
+[07-Jul-2017 23:21:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 6
+[10-Jul-2017 00:27:29 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 28
+[10-Jul-2017 00:27:29 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 28
+[10-Jul-2017 00:28:25 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 28
+[10-Jul-2017 00:28:25 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 28
+[10-Jul-2017 00:32:24 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:32:24 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:35:11 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:35:11 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:35:11 America/Denver] PHP Notice:  Array to string conversion in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 28
+[10-Jul-2017 00:38:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:38:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:39:36 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:39:36 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:42:07 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:42:07 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:47:34 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:47:34 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 23
+[10-Jul-2017 00:49:36 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 25
+[10-Jul-2017 00:49:36 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 25
+[10-Jul-2017 00:51:39 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 18
+[10-Jul-2017 00:51:39 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 18
+[10-Jul-2017 01:01:30 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 18
+[10-Jul-2017 01:01:30 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 18
+[10-Jul-2017 01:59:49 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 01:59:49 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 20:51:40 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 20:51:40 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 20:51:40 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 20:51:40 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 21:03:27 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 21:03:27 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 21:03:27 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 21:03:27 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 9
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 31
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 31
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 31
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 31
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 35
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 35
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 35
+[10-Jul-2017 21:05:38 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 35
+[10-Jul-2017 22:15:31 America/Denver] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING), expecting ',' or ';' in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 22
+[10-Jul-2017 23:28:15 America/Denver] PHP Parse error:  syntax error, unexpected 'mysql_insert_id' (T_STRING), expecting ',' or ';' in /home1/robertjp/public_html/questhelper/inc/quest.inc.php on line 28
+[29-Sep-2017 17:03:28 America/Denver] PHP Notice:  Undefined index: uid in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 6
+[29-Sep-2017 17:03:28 America/Denver] PHP Notice:  Undefined index: pwd in /home1/robertjp/public_html/questhelper/inc/login.inc.php on line 7

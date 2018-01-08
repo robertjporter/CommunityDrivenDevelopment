@@ -1,0 +1,288 @@
+/*
+	Bootstrap template project
+	Robert Porter
+	Version 0.0.1
+*/
+/* BASE - base styles, Variables, mixins, etc */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important; }
+
+h1, h2, h3, h4, h5, h6, p, blockquote, address, big, cite, code, em, font, img, small, strike, sub, sup, li, ol, ul, fieldset, form, label, legend, button, table, caption, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100%;
+  line-height: 1;
+  font-family: inherit;
+  text-align: left; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote:before,
+blockquote:after {
+  content: ""; }
+
+a {
+  outline: none; }
+
+input[type=search] {
+  -moz-appearance: none;
+  -webkit-appearance: none; }
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  display: none; }
+
+a:link,
+a:visited {
+  color: #FFF;
+  text-decoration: none; }
+
+/*button highlight fixer*/
+button:focus {
+  outline: 0; }
+
+body:before {
+  content: "";
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -10;
+  background: url(../img/sky.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+button {
+  background-color: transparent; }
+
+.RJP_logIn {
+  background-size: cover !important;
+  background-repeat: no-repeat;
+  background-position: 50% 50%; }
+
+.debug-col1 {
+  background-color: #a0a0a0; }
+
+.debug-col2 {
+  background-color: #b0b0b0; }
+
+.debug-col3 {
+  background-color: #a5a5a5; }
+
+.RJP-list {
+  list-style: none;
+  width: 100%;
+  padding: 0;
+  margin: 0; }
+
+#quest-space {
+  height: 100%; }
+
+.RJP-highten {
+  height: 100%; }
+
+.RJP-content {
+  height: calc(100% - 120px);
+  height: calc(100vh - 120px);
+  overflow: auto; }
+
+.RJP-width-fixer {
+  width: 250px; }
+
+.RJP-primaryNav {
+  z-index: 20; }
+
+/* -------------------------------- Login screen -------------------------------- */
+.RJP-smalltext {
+  font-size: 14px; }
+
+.RJP-loginExtra {
+  color: white; }
+
+.RJP-overlay {
+  top: 0px;
+  position: absolute; }
+
+.wrapper {
+  margin-top: 80px;
+  margin-bottom: 80px; }
+
+.form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px; }
+
+input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0; }
+
+input[type="password"] {
+  margin-bottom: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0; }
+
+.form-signin {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto; }
+
+.RJP_header {
+  width: 100%;
+  height: 90px;
+  line-height: 90px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 30px; }
+
+.vertical-center {
+  min-height: 100%;
+  /* Fallback for browsers do NOT support vh unit */
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  /* These two lines are counted as one :-)       */
+  align-items: center; }
+
+@media screen and (min-width: 480px) {
+  .RJP-split {
+    width: 50%;
+    float: left; } }
+/* ------------- NAV-BAR ----------------*/
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10; }
+
+.RJP-fill-width {
+  width: 33%;
+  text-align: center; }
+
+/* ------------- CREATE QUEST ----------------*/
+textarea {
+  width: 100%; }
+
+.objective_container {
+  background-color: #808080;
+  padding: 10px;
+  border-style: solid;
+  border-width: 2px;
+  margin-bottom: 10px; }
+
+.textwrapper {
+  border: 1px solid #999999;
+  margin: 5px 0;
+  padding: 3px; }
+
+.addRow {
+  cursor: pointer;
+  font-weight: bold; }
+
+/* -------------------------------- Quest Info -------------------------------- */
+.questinfo {
+  height: 100%; }
+
+.questinfo-vitals {
+  margin-top: 50px;
+  background-color: #eaeaea;
+  min-height: 72px; }
+
+.quest-title {
+  font-weight: bold;
+  font-size: 24px;
+  width: 49%;
+  float: left;
+  padding-left: 20px; }
+
+.questinfo-costreward {
+  width: 45%;
+  float: right;
+  text-align: right;
+  font-size: 18px;
+  padding-right: 20px;
+  margin: auto 0; }
+
+.glyphicon-star {
+  font-size: 24px; }
+
+.progress {
+  height: 5px;
+  margin: 0px; }
+
+.questinfo-timeVitals {
+  color: white; }
+
+.questinfo-body {
+  color: white; }
+
+.questinfo-header {
+  min-height: 124px;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+#toQuestLog {
+  float: right; }
+
+.objective-button {
+  width: 100%; }
+
+.glyphicon-chevron-down {
+  float: right;
+  font-size: 1.2em; }
+
+hr {
+  margin: 0;
+  border-width: 2px;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em; }
+
+.RJP-left {
+  margin-left: 0.5em; }
+
+.RJP-right {
+  margin-right: 0.5em;
+  float: right; }
+
+#toMessage, #toQuestLog {
+  padding: 0.5em;
+  color: #fff;
+  background-color: black; }
+
+#QuestStart {
+  color: white;
+  text-shadow: 0px 0px 2px black;
+  font-weight: bold;
+  font-size: 42px;
+  text-align: center;
+  display: block;
+  width: 200px;
+  height: 100%;
+  margin: 0 auto; }
+
+/* MODULES - misc site elements */
+/* LAYOUTS - Page lout styles */
+
+/*# sourceMappingURL=main.css.map */
